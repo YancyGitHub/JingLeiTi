@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font displayname="方正静蕾简体">
+	<sans>
+		<file>
+			<filename>jingleiti.ttf</filename>
+			<droidname>DroidSans.ttf</droidname>
+		</file>
+		<file>
+			<filename>jingleiti.ttf</filename>
+			<droidname>DroidSans-Bold.ttf</droidname>
+		</file>
+
+	</sans>
+</font>
